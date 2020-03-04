@@ -1,0 +1,13 @@
+{
+    "vcenter_server":"YOUR VCENTRE IP ADDRESS",
+    "username":"administrator@vsphere.local",
+    "password":"VCENTRE PASSWORD",
+    "datastore":"datastore1",
+    "folder": "/vm/_Templates",
+    "host":"ESXi IP ADDRESS",
+    "cluster": "",
+    "network": "VM Network",
+    "resource_pool": "",
+    "ssh_username": "grazzer",
+    "ssh_password": "grazzer"
+}
